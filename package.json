@@ -1,0 +1,18 @@
+{
+  "name": "movie-seat-booking",
+  "version": "1.0.0",
+  "description": "A simple app for demonstration.",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "keywords": [
+    "movie",
+    "seat"
+  ],
+  "author": "Vahid Khodadadi",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
